@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/75798911/200378648-23776d6b-37ed-4ea7-9be1-066c835d1909.png)" width="350" title="logo">
-</p>
+
 
 <h1 align="center">Foliar-Diseases</h1>
 
